@@ -3,8 +3,8 @@
 - And transfer Shop(Contract Ownership from one vendor to another
 - Rent out Your shop at some interest rate 
 
-## Fruit Market
-- The fruit market feature allows users to simulate the purchase of various fruits using their Ethereum balance. Each fruit costs 1 ETH, and successful purchases are reflected in the user's balance, showcasing a practical use of smart contracts for transaction handling.
+![image](https://github.com/user-attachments/assets/457a96e0-0871-4358-bf0e-3d2e010d7b28)
+
 
 
 ## Features: The Crypto ATM component provides the following features:
